@@ -1,2 +1,5 @@
 # blogen
-sample basic bootstrap driven css project to demonstrate a basic menu driven UI. Purely functional. Not designed with much esthetic value!
+
+This is a project to practic and demonstrate simple css driven by bootstrap.
+
+It was designed to be purely functional, not esthetically pleasing!
